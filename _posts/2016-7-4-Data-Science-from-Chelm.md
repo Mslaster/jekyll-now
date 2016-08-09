@@ -11,5 +11,5 @@ I felt that, in trying to develop an optimal strategy, there were so many questi
 
 After seeing the varied appraoches of the cohort's other teams, one underlying point started to really hit me. Even when using data-driven approaches, the success of a strategy still rests on many assumptions. Some groups made assumptions about when people would be most open to cooperating with canvassers. Others made assumptions of reasonable Metrocard swipe rates (to scrub out bad data). The need to make plausible assumptions along the way seems inherent to the process. So...does that mean we are all just looking poking around the dark streets of Chelm looking for our watches? Not quite. Building good data-driven models is an iterative process. We work with what we have until we can find better. We are looking under the streetlamp...while building some high-powered flashlights!    
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]
 
